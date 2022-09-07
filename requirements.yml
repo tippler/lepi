@@ -1,0 +1,5 @@
+---
+- name: nginx
+  src: https://github.com/bennojoy/nginx
+  scm: https
+  version: 'master'
